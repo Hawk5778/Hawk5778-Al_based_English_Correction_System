@@ -8,6 +8,7 @@ API:Gemini
 
 ## はじめて使用する場合
 1.以下のURLからGeminiのAPIキーを取得してください
+
 https://ai.google.dev/gemini-api/docs/quickstart?hl=ja&lang=python
 
 2.プログラムを適切なフォルダに入れてください
