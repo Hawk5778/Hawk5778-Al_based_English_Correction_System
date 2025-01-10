@@ -210,8 +210,6 @@ class Log:
         Log.window.geometry("1920x1080")
 
         tk.Label(Log.window, text="英文添削ログ", font=("Arial",25)).pack()
-        tk.Label(Gemini.window, text="ユーザー入力欄", font=("Arial",20)).place(x=100,y=100)
-        tk.Label(Gemini.window, text="Gemini出力欄", font=("Arial",20)).place(x=1100,y=100)
 
         ##入力
         #フレーム
