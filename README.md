@@ -14,7 +14,7 @@ https://ai.google.dev/gemini-api/docs/quickstart?hl=ja&lang=python
 
 2.プログラムを適切なフォルダに入れてください
 
-3.プログラムを起動し、下から二番目の設定ボタンを押してください。
+3.AECS.pyを起動し、下から二番目の設定ボタンを押してください。
 
 4.取得したGeminiのAPIキーをAPIの欄に入力し、変更ボタンを押してください。
 
