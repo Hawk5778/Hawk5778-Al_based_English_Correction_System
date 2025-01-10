@@ -25,4 +25,4 @@ https://ai.google.dev/gemini-api/docs/quickstart?hl=ja&lang=python
 
 GUIライブラリ：Tkinter
 
-API:Gemini
+API：Gemini
