@@ -16,7 +16,7 @@ https://ai.google.dev/gemini-api/docs/quickstart?hl=ja&lang=python
 
 3.AECS.pyを起動し、下から二番目の設定ボタンを押してください。
 
-4.取得したGeminiのAPIキーをAPIの欄に入力し、変更ボタンを押してください。
+4.取得したGeminiのAPIキーをAPIの欄に入力し、変更ボタンを押してください。これでAPIの設定が完了します。
 
 5.Modelは初めからgemini-1.5-flashが設定されています。変更したい場合はこちらも変更してください。
 
